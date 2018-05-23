@@ -12,7 +12,7 @@ Installing from a Github Clone (assuming you know Github)
 https://github.com/atutor/ATutor
 
 2. Clone ATutor from the fork you created into the document root of your webserver (for convenience), with:
-git clone https://github.com/yourname/ATutor.git
+git clone https://github.com/ramanasha/ATutor.git
 
 3.  Before running the Installer, create an empty config.inc.php file in the ATutor/include/ directory. If you have a command line to work from, while located in the ATutor directory, create the file with: 
 
